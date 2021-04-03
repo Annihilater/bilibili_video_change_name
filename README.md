@@ -30,13 +30,13 @@
 git clone https://github.com/Annihilater/bilibili_video_change_name.git 
 ```
 
-1. 修改视频目录路径
+3. 修改视频目录路径
 
 ![2021-03-28-19-55-22](https://klause-blog-pictures.oss-cn-shanghai.aliyuncs.com/uPic/2021-03-28-19-55-22.png)
 
 将上图标红部分替换为你本机（下载好的视频教程的文件夹）目录，然后运行 main.py 文件
 
-1. 执行程序
+4. 执行程序
 
 ```Bash
 python main.py
